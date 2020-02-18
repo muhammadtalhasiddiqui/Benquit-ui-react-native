@@ -1,0 +1,8 @@
+export const AuthConst = {
+    PROGRESS: "PROGRESS",
+    ERROR: "ERROR",
+    SIGNUP: "SIGNUP",
+    LOGIN: "LOGIN",
+    FORGET_PASSWORD: "FORGET_PASSWORD",
+    LOGOUT: "LOGOUT"
+};
